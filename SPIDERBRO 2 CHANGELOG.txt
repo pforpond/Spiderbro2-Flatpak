@@ -1,0 +1,49 @@
+SPIDERBRO 2 CHANGELOG
+
+15/06/2024 - Update 2.1
+- For some reason the wall of cracks in level 3 was labelled as a pool! We've fixed this!
+- Made the cheat sheet on level 2 much clearer.
+- Fixed an issue where some pocket controls would not appear when opening the pockets whilst moving.
+
+10/05/2024 - Update 2.0
+- Fixed an issue where the save timer would not reset when starting new game plus. This means the Refund Chaser award doesn't require a new save and is easier to get.
+- Disabled the checking of secret cheat sheet usage during the normal ending. This means the Chicken Dinner II award is harder to get.
+- Updated engine to version 2.8.77 which includes performance improvements.
+- Restoring a save no longer wipes the earned awards from the save being restored.
+- Improved tutorial.
+- Gaining a PC-SPACE inventory items plays an animation to inform the player.
+- Reduced flicker in some animations.
+
+03/05/2024 - Update 1.15
+- Fixed an issue that would allow you to use pocket items with wall collision, resulting in a glitched message.
+- Tweaked timing of some sound effects during the final boss conclusion.
+- Fixed oversight where Taran would imply they gave you the Leaflet if you tried to give it to them.
+
+09/04/2024 - Update 1.14
+- Fixed a bug where the worm death animation sound effect would fail to play.
+
+14/03/2024 - Update 1.13
+- Fixed an bug where additional time would be added to the players save timer whenever a death was experienced. Apologies to any speedrunners out there.
+
+08/03/2024 - Update 1.12
+- Fixed an issue where some unneeded pocket items were not removed after Boss 3.
+- Improvements to the cheat sheet for Level 1.
+
+05/03/2024 - Update 1.11
+- Fixed some mistakes in the court room.
+- Fixed issue where some award notifications would not display correctly when an award is received.
+
+04/03/2024 - Update 1.1
+- Fixed Boss 1 music playing after it has been defeated when you enter purple room 4 from the pool room.
+- Fixed Level 4 Droid not taking away an unsigned counselling slip.
+- Fixed Level 4 Droid not taking away an unruined purple pass.
+- Reports of Kermes' death are greatly exaggerated! Changed the description of a knocked out Kermes from Dead Body to Kermes.
+- You may now throw away your unruined purple pass in Boss 2.
+- Fixed the mysterybug reappearing if you were to attempt Sub Level 3 with no charged emergency hammer.
+- Fixed worm smashing up the PC sounds not playing.
+- Fixed the cheatsheet not working correctly just before starting Boss 2.
+
+27/02/2024 - Update 1.01 (First Public Release)
+- Added some missing sound effects.
+
+26/02/2024 - Build 1.0
