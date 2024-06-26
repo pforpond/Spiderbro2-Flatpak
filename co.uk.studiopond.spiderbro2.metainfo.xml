@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>co.uk.studiopond.spiderbro</id>
+  <id>co.uk.studiopond.spiderbro2</id>
   
-  <name>Spiderbro</name>
-  <summary>An adventure puzzle game starring a purple spider!</summary>
+  <name>Spiderbro 2</name>
+  <summary>A spider puzzle game!</summary>
   
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   
   <description>
     <p>
-      Spiderbro is a retro inspired adventure puzzle game for Windows and Linux. You play as Spiderbro, a purple spider that has to face an oppressive and dystopian environment whilst overcoming the obstacles of a shadowy adversary.
+      Spiderbro 2 is a retro inspired adventure puzzle game for Windows and Linux. You play as Shadowbro, a spider that has to save the multiverse from the antics of a real life computer worm!
     </p>
     <p>
-      EXPLORE, COLLECT ITEMS, SOLVE PUZZLES! Don&apos;t get left behind! Overcome the shadow spider&apos;s obstacles by exploring the environment and collecting items for your inventory! Use your inventory items on world objects to solve puzzles! Got a locked door to get through? Better find a key!
+      EXPLORE, COLLECT ITEMS, SOLVE PUZZLES! Make your way deeper into the company building by exploring the environment and collecting items for your pockets! Use your pocket items on world objects, give them to NPCs or merge them with one another to solve puzzles!
     </p>
     <p>
-      IN-GAME PC&apos;s TO FURTHER HELP YOUR JOURNEY! Use the in-game PCs to be able to check for further clues! Text logs with clues and backstory on the local environment can be found on PCs found throughout the game! They can also dispense inventory items, list your inventory, save the game and more!
+      THE IN-GAME PCs ARE BACK WITH AN UPGRADE! Use the in-game PCs and check for further clues! Text logs with clues and backstory can be found on PCs found throughout the game! Take a trip to PC-SPACE, a company exclusive VR service that takes using a PC to new depths!
     </p>
     <p>
-      WATCH OUT FOR THE SHADOW WORLD! What is with those grey cracks in the walls? Why are PC files being corrupted? Why is the shadow spider here and where are they from? Enter the shadow world at your own risk! The puzzles are bound to be harder!
+      A WORM IS LOOSE! THE MULTIVERSE IS COLLIDING! A computer worm gone wild has broken into the real world! More cracks and holes to new universes have appeared! In Spiderbro 2 you should expect the unexpected as you overcome the worm whilst travelling between different universes!
     </p>
     <p>
-      EVEN MORE!     Simple keyboard controls.     Atmospheric soundtrack.     Audio and display options.
+      DISCOVER COMPANY SECRETS! Go deeper into the company building and find out what triggered the events of Spiderbro! Each new department will unravel more secrets!
     </p>
     <p>
-      CONTROLS     Arrow Keys - Move.     Space - Use.     Q - Pause/Main Menu.
+      NO NEED TO PLAY THE PREQUEL! Players need not play the first Spiderbro! Spiderbro 2 expands upon the first game in a way that does not require the player to complete it! Spiderbro 2 also contains a copy of the first game, within the game!
+    </p>
+    <p>
+      YOU WILL DIE! Be warned that this world is not safe! Make frequent use of savepoints to prevent losing progress!
+    </p>
+    <p>
+    EVEN MORE!
+    34 In-game Awards
+    New game plus mode
+    Two possible conclusions
+    Built in Cheat Sheet with all puzzle solutions
+    </p>
+    <p>
+    CONTROLS
+    Arrow Keys / WASD - Movement
+    SPACE / ENTER - Interact
+    P / E - Open Pockets
+    ESC - Back / Pause
     </p>
   </description>
   
@@ -38,17 +55,33 @@
     <name>Studio Pond</name>
   </developer>
 
-  <url type="homepage">https://www.studiopond.co.uk/spiderbro/</url>
-  <url type="vcs-browser">https://github.com/pforpond/Spiderbro/</url>
+  <url type="homepage">https://www.studiopond.co.uk/spiderbro-2/</url>
+  <url type="vcs-browser">https://github.com/pforpond/Spiderbro-2</url>
   <screenshots>
     <screenshot type="default">
-      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202022-06-14%2014-52-42.png</image>
+      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202024-01-29%2015-30-11.png</image>
+      <caption>Spiderbro 2 - Level 1</caption>
     </screenshot>
     <screenshot>
-      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202022-06-14%2014-52-52.png</image>
+      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202024-01-29%2015-37-33.png</image>
+      <caption>Spiderbro 2 - Level 3</caption>
     </screenshot>
     <screenshot>
-      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202022-06-14%2014-19-05.png</image>
+      <image>https://img1.wsimg.com/isteam/ip/39bbef2c-50f1-4dd2-ae0f-192746eff691/Screenshot%20from%202024-01-29%2015-33-18.png</image>
+      <caption>Spiderbro 2 - PC-SPACE</caption>
     </screenshot>
   </screenshots>
+  <releases>
+   <release version="2.1" date="2024-06-15">
+    <url type="details">https://raw.githubusercontent.com/pforpond/Spiderbro2-Flatpak/main/SPIDERBRO%202%20CHANGELOG.txt</url>
+    <description>
+      <p>Update 2.1</p>
+        <ul>
+          <li>For some reason the wall of cracks in level 3 was labelled as a pool! We've fixed this!</li>
+          <li>Made the cheat sheet on level 2 much clearer.</li>
+          <li>Fixed an issue where some pocket controls would not appear when opening the pockets whilst moving.</li>
+        </ul>
+    </description>
+  </release>
+  </releases>
 </component>
