@@ -46,7 +46,7 @@
     </p>
   </description>
   
-  <launchable type="desktop-id">co.uk.studiopond.spiderbro.desktop</launchable>
+  <launchable type="desktop-id">co.uk.studiopond.spiderbro2.desktop</launchable>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">mild</content_attribute>
     <content_attribute id="violence-fantasy">mild</content_attribute>
