@@ -1,0 +1,4 @@
+"ifcheckpoint 41"
+"sfx error"
+"terminaltext ===ERROR!===, , Reactor not above power, limit!, Currently at [value]-5 mw, out of 3200mw, 3"
+"terminalnoboot reactorsettings"

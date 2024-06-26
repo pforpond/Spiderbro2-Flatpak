@@ -1,0 +1,5 @@
+"remark review number of cheat sheet uses"
+"speaker nobody"
+"say Number times cheat sheet was read: [value]-3"
+"ifvalue 3 equal 0"
+"script finalaward"

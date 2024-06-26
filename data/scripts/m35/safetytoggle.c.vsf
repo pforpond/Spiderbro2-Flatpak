@@ -1,0 +1,6 @@
+"ifcheckpoint 28"
+"terminaltext RECTOR SAFETY CONTROL, , Press space to disable!, , , , 1"
+"ifcheckpoint 34"
+"sfx error"
+"terminaltext ===ERROR!===, , Reactor operations are, normal! No reason to, disable safety!, , 1"
+"terminalnoboot reactorsettings"

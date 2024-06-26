@@ -1,0 +1,5 @@
+"ifcheckpoint 13"
+"direction player ant faceplayer"
+"speaker ant"
+"say Breaking the rules is always a little bit fun!"
+"direction player ant 1"

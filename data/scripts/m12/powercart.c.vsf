@@ -1,0 +1,6 @@
+"terminaltext POWER MINECART, , Press space to begin, docked minecart launch, procedure!, , 1"
+"ifholding shadowfloppy"
+"ifcheckpoint 14"
+"sfx error"
+"terminaltext ===ERROR!===, , Mod rom required!, , , , 3"
+"terminalnoboot cartcontrol"

@@ -1,0 +1,8 @@
+"direction player chafie faceplayer"
+"speaker chafie"
+"say You've just handed someone in hell a glass of ice water!"
+"take coffee"
+"speaker chafie"
+"say you have my gratitude!"
+"direction player chafie 1"
+"giveaward 6"

@@ -1,0 +1,3 @@
+"ifcheckpoint 18"
+"direction player spacemillie faceplayer"
+"choice Status, Interact, Report, End"

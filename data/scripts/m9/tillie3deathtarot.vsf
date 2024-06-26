@@ -1,0 +1,5 @@
+"ifcheckpoint 11"
+"direction player tillie faceplayer"
+"speaker tillie"
+"say The evil spider has evil cards! Stay away from me!"
+"direction player tillie 1"

@@ -1,0 +1,5 @@
+"direction player spaceant faceplayer"
+"fade out"
+"terminaltext USER MESSAGE:, , Connection denied!, , , , 3"
+"fade in"
+"direction player spaceant 2"

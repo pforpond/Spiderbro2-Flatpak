@@ -1,0 +1,8 @@
+"model mainplayer shadowbrostill"
+"collision off"
+"move mainplayer y 520"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say I am not going near that thing!"
+"collision on"
+"model mainplayer shadowbro"

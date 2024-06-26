@@ -1,0 +1,7 @@
+"ifdirection 4"
+"ifcheckpoint 22"
+"take ttt"
+"warp player clearbro x 486"
+"warp player clearbro y 539"
+"animate player clearbro losettt"
+"markgone ttt"

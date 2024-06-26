@@ -1,0 +1,5 @@
+"terminaltext RAISE CONTROL RODS, , Press space to continue!, , , , 1"
+"ifcheckpoint 28"
+"sfx error"
+"terminaltext ===ERROR!===, , Manual controls are, disabled whilst reactor, safety is on!, , 3"
+"terminalnoboot rodcontrol"

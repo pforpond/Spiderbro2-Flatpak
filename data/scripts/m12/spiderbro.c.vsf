@@ -1,0 +1,6 @@
+"ifholding shadowfloppy"
+"terminaltext Spiderbro, , Press space to begin!, , , , 1"
+"run vameforspiderbroforspiderbro2"
+"special666"
+"ifvalue 39 equal 1"
+"terminalnoboot spidergame"

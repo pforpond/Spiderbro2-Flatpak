@@ -1,0 +1,6 @@
+"ifcheckpoint 9"
+"ifpocket pot"
+"ifpocket goodsoup"
+"ifpocket badsoup"
+"checkpoint 9 on"
+"script cavitysearch"

@@ -1,0 +1,8 @@
+"remark sofa and box card return"
+"ifcheckpoint 33"
+"ifcheckpoint 34"
+"ifpocket 2deathtarot"
+"ifpocket 1deathtarot"
+"speaker mainplayer"
+"say It has tarot cards inside!"
+"give 2deathtarot"

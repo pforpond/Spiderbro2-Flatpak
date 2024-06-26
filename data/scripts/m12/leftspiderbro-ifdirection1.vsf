@@ -1,0 +1,6 @@
+"ifdirection 4"
+"model mainplayer spiderbro"
+"control pockets off"
+"trigger 1 off"
+"trigger 2 on"
+"trigger 3 on"

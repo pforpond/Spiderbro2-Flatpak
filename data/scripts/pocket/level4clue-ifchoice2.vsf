@@ -1,0 +1,6 @@
+"remark cheat sheet right at the start!"
+"modvalue 3 add 1"
+"savevalue 3"
+"ifcheckpoint 19"
+"speaker nobody"
+"say Run the pcspace-open.c application on the PC! Enter PC-space and use the open.c application to get to Cattie and interact with them!"

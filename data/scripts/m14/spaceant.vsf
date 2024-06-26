@@ -1,0 +1,3 @@
+"ifcheckpoint 2"
+"direction player spaceant faceplayer"
+"choice Status, Interact, Report, End"

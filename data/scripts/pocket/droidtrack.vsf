@@ -1,0 +1,6 @@
+"remark tracks droid for mini boss"
+"ifvalue 5 above 1"
+"remark no droid found!"
+"effects off"
+"showimage droidtracker-notfound"
+"effects on"

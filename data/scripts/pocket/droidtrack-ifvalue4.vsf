@@ -1,0 +1,6 @@
+"remark tracks droid for mini boss"
+"ifvalue 5 above 5"
+"remark droid in room 3!"
+"effects off"
+"showimage droidtracker-room3"
+"effects on"

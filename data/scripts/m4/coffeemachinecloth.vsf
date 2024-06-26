@@ -1,0 +1,7 @@
+"ifpocket coffee"
+"speaker mainplayer"
+"say The machine is cleaned now! I'll make some coffee!"
+"sfx coffee"
+"wait 2"
+"give coffee"
+"giveaward 2"

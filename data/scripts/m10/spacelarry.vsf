@@ -1,0 +1,4 @@
+"ifcheckpoint 99"
+"ifcheckpoint 43"
+"direction player spacelarry faceplayer"
+"choice Status, Interact, Report, End"

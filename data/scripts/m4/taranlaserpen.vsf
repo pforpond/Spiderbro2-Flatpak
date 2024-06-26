@@ -1,0 +1,8 @@
+"direction player taran faceplayer"
+"speaker taran"
+"say I'm willing to trade that laser pen for this happy shopper sports wristwatch!"
+"take laserpen"
+"give wristwatch"
+"say We put a smile on every shopper, here at happy shopper!"
+"direction player taran 2"
+"checkpoint 16 on"

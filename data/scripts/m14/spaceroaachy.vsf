@@ -1,0 +1,3 @@
+"ifcheckpoint 6"
+"direction player spaceroaachy faceplayer"
+"choice Status, Interact, Report, End"

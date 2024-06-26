@@ -1,0 +1,5 @@
+"ifholding shadowfloppy"
+"fade in"
+"speaker helpgirl"
+"say Welcome to the Spiderbro helpline! We will help players that are stuck! First of all, I'd like to know what level you're having trouble with!"
+"choice Level 1, Level 2, Level 3, Level 4, Level 5, Level 6, Level 7, Level 8, Level 9, Level 10, Goodbye!"

@@ -1,0 +1,5 @@
+"ifpocket badsoup"
+"take goodsoup"
+"say Consumable! Liquids are not authorised! Not cleared!" 
+"checkpoint 9 on"
+"script cavitysearch"

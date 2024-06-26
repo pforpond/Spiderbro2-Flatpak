@@ -1,0 +1,5 @@
+"ifcheckpoint 16"
+"fade out"
+"sfx error"
+"terminaltext ===ERROR===, , This directory has a, user limit of 1!, Try again later!, , 3"
+"fade in"

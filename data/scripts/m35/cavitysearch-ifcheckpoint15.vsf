@@ -1,0 +1,4 @@
+"ifcheckpoint 15"
+"ifpocket blueentitykey"
+"checkpoint 15 on"
+"script cavitysearch"

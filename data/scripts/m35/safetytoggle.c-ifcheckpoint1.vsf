@@ -1,0 +1,6 @@
+"ifcheckpoint 28"
+"terminaltext SUCCESS!, , Safety has been, disabled!, Manual controls online!, , 1"
+"checkpoint 28 on"
+"terminaltext REACTOR NOTICE!, , Increased xenon spikes!, Power output now at, 20mw!, , 1"
+"makevalue 5 20"
+"terminalnoboot reactorsettings"

@@ -1,0 +1,7 @@
+"ifcheckpoint 13"
+"direction player ant faceplayer"
+"speaker ant"
+"say Wow! How did you manage to get some of that? Thanks!"
+"take coffee"
+"direction player ant 1"
+"giveaward 6"

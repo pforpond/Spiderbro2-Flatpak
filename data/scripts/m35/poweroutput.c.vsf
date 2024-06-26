@@ -1,0 +1,4 @@
+"remark power output"
+"terminaltext REACTOR POWER OUTPUT, , [value]-5 mw, , , , 1"
+"terminalnoboot reactorstatus"
+

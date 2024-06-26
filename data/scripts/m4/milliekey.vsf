@@ -1,0 +1,6 @@
+"ifcheckpoint 20"
+"pilot milliekey on"
+"direction player milliekey faceplayer"
+"speaker milliekey"
+"say I have lost my mixtape! I think I dropped it somewhere around here..."
+"pilot milliekey off"

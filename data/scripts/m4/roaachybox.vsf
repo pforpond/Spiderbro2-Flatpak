@@ -1,0 +1,8 @@
+"speaker roaachy"
+"say Eek!"
+"animate object roaachybox roaachyboxhide"
+"warp object emptybox x 831"
+"warp object emptybox y 580"
+"warp object roaachybox x 1"
+"warp object roaachybox y 1"
+"timedscript roaachypeekaboo 5"

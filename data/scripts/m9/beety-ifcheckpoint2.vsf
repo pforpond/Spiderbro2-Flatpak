@@ -1,0 +1,6 @@
+"ifcheckpoint 3"
+"direction player beety faceplayer"
+"speaker beety"
+"say You haven't seen Millie have you? They were meant to be here already for the project reveal! They better not have lost another key!"
+"checkpoint 3 on"
+"direction player beety 2"

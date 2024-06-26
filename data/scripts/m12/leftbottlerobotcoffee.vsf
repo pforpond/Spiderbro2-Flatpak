@@ -1,0 +1,4 @@
+"pilot leftbottlerobot on"
+"speaker leftbottlerobot"
+"say Caffeinated beverage detected!"
+"pilot leftbottlerobot off"

@@ -1,0 +1,6 @@
+"take paperplate"
+"warp object purpleprinterplate1 x 480"
+"warp object purpleprinterplate1 y 517"
+"warp object purpleprinter x 1"
+"warp object purpleprinter y 1"
+"checkpoint 36 on"

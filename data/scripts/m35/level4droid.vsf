@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"pilot level4droid on"
+"direction player level4droid faceplayer"
+"speaker level4droid"
+"say hello weaver! we have a file on you!"
+"pilot level4droid off"
+"model mainplayer shadowbro"

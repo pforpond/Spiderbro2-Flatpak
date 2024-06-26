@@ -1,0 +1,8 @@
+"take filledpermissionslip1"
+"warp player clearbro x 472"
+"warp player clearbro y 529"
+"sfx spaceblock"
+"animate player clearbro spacesideblock2"
+"warp player clearbro x 395"
+"warp player clearbro y 539"
+"animate player clearbro loseform"

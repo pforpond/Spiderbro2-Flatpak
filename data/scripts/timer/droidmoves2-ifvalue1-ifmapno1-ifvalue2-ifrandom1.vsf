@@ -1,0 +1,6 @@
+"remark the droid changes its mind, remains in a cross room"
+"makevalue 5 2"
+"makevalue 7 2"
+"modvalue 7 add 21"
+"makerandom 30 60"
+"timedscript droidmoves1 userandom"

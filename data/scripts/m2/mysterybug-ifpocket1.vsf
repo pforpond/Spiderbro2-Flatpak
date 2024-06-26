@@ -1,0 +1,7 @@
+"ifpocket secretcheatsheet"
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say If you have some identification, open your pockets when close to me like this and select to give it to me!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

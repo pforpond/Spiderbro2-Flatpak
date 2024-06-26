@@ -1,0 +1,5 @@
+"ifcheckpoint 44"
+"direction player sawyer faceplayer"
+"speaker sawyer"
+"say N- no I d- do not n- need t- t- that!"
+"direction player sawyer 3"

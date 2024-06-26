@@ -1,0 +1,5 @@
+"ifcheckpoint 10"
+"direction player aphie faceplayer"
+"speaker aphie"
+"say If you have suggestions put them on the desk!"
+"direction player aphie 1"

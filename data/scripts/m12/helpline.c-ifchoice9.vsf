@@ -1,0 +1,4 @@
+"speaker helpgirl"
+"say Ride the elevator down and go right! Get the glass jar from the podium and ride the elevator back up! Enter the rain room and place the jar on the desk! Once the jar has filled, return it to the podium! Use the PC!"
+"say This is where the story branches! On the PC there are three available items! Tell me which one you picked!"
+"choice Web, Sword, Cookies"

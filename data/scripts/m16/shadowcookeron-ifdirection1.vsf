@@ -1,0 +1,7 @@
+"speaker mainplayer"
+"say I'll turn it off!"
+"warp object shadowcookeroff x 265"
+"warp object shadowcookeroff y 524"
+"warp object shadowcookeron x 1"
+"warp object shadowcookeron y 1"
+"checkpoint 9 off"

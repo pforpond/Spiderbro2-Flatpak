@@ -1,0 +1,7 @@
+"ifpocket filledpermissionslip2"
+"ifpocket blankpermissionslip"
+"take filledpermissionslip1"
+"speaker level4droid"
+"say Signed therapy form! Therapy is not required in Micofracture Assembly! Not cleared!"
+"checkpoint 7 on"
+"script cavitysearch"

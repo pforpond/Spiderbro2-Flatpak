@@ -1,0 +1,6 @@
+"ifcheckpoint 20"
+"speaker mainplayer"
+"say There is some broccoli and a plate in here!"
+"give broccoli"
+"give paperplate"
+"checkpoint 20 on"

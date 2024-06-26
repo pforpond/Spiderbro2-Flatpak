@@ -1,0 +1,7 @@
+"speaker mainplayer"
+"give pot"
+"warp object shadowcookeroff x 265"
+"warp object shadowcookeroff y 524"
+"warp object shadowcookerpan x 1"
+"warp object shadowcookerpan y 1"
+"checkpoint 8 on"

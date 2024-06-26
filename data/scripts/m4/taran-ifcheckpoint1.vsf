@@ -1,0 +1,6 @@
+"ifcheckpoint 16"
+"direction player taran faceplayer"
+"speaker taran"
+"say Welcome to happy shopper! I'm happy to trade those power mittens for something if you are willing!"
+"say We put a smile on every shopper, here at happy shopper!"
+"direction player taran 2"

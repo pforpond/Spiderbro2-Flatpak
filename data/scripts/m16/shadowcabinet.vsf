@@ -1,0 +1,6 @@
+"ifcheckpoint 17"
+"speaker mainplayer"
+"say This cabinet has a couple of items inside!"
+"give shadowfloppy"
+"give robotblueprints"
+"checkpoint 17 on"

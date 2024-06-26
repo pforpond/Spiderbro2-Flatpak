@@ -1,0 +1,7 @@
+"pilot spaceplumie on"
+"direction player spaceplumie faceplayer"
+"fade out"
+"terminaltext HAPPY MESSAGE:, , Trade denied!, You are on the, happy shopper blacklist!, , 3"
+"fade in"
+"direction player spaceplumie 2"
+"pilot spaceplumie off"

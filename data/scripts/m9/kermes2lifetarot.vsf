@@ -1,0 +1,10 @@
+"direction player kermes faceplayer"
+"take 1lifetarot"
+"silenttake 2lifetarot"
+"silentgive 1lifetarot"
+"speaker kermes"
+"say ... more life? I think there is a chance I could do this..."
+"direction player kermes 4"
+"speaker kermes"
+"say ... I'm scared!"
+

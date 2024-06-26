@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player beety faceplayer"
+"speaker beety"
+"say Millie never found their key in the end!"
+"direction player beety 2"
+"model mainplayer shadowbro"

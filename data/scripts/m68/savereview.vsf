@@ -1,0 +1,5 @@
+"remark review saves"
+"speaker nobody"
+"say Number of saves: [value]-1"
+"ifvalue 1 equal 0"
+"script deathreview1"

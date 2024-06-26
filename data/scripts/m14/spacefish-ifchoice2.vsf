@@ -1,0 +1,4 @@
+"fade out"
+"terminaltext Spacefish Game!, , Level 1!, , 4 + 6 = ?, , 1"
+"fade in"
+"choice 12, 11, 10, End"

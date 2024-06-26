@@ -1,0 +1,7 @@
+"ifpocket rompart"
+"direction player ichne faceplayer"
+"speaker ichne"
+"say Nice outfit!"
+"speaker ichne"
+"say If you have nothing to do, I need some inspiration!"
+"direction player ichne 1"

@@ -1,0 +1,6 @@
+"warp object spaceeyeball x 223"
+"warp object spaceeyeball y 91"
+"warp object spaceblindeye x 1"
+"warp object spaceblindeye y 1"
+"trigger 2 off"
+"trigger 1 on"

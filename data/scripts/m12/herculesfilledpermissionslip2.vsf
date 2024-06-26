@@ -1,0 +1,7 @@
+"direction player hercules faceplayer"
+"speaker hercules"
+"say Wow! Those are practically gold dust down here!"
+"take filledpermissionslip2"
+"speaker hercules"
+"say Thanks!"
+"direction player hercules 2"

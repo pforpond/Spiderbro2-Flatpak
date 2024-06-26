@@ -1,0 +1,7 @@
+"speaker mainplayer"
+"say There is some sort of device here!"
+"give droidtracker"
+"warp object purpledeskempty x 520"
+"warp object purpledeskempty y 512"
+"warp object purpledesktool x 1"
+"warp object purpledesktool y 1"

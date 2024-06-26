@@ -1,0 +1,5 @@
+"ifcheckpoint 38"
+"terminaltext Secu-Sign!, , Press Space to sign, the contract.pt, document!, , 1"
+"terminaltext Secu-Sign!, , Success!, Contract.pt is now, signed!, , 1"
+"checkpoint 38 on"
+"terminalnoboot secretendstart"

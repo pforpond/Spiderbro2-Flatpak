@@ -1,0 +1,6 @@
+"ifcheckpoint 68"
+"warp object spacecrystal x 1"
+"warp object spacecrystal y 1"
+"warp object spacenocrystal x 462"
+"warp object spacenocrystal y 393"
+"checkpoint 68 on"

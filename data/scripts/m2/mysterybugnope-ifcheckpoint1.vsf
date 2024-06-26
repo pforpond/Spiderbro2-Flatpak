@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say No need to show me that! Move along now!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

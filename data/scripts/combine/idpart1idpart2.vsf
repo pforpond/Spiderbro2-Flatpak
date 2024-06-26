@@ -1,0 +1,8 @@
+"sfx goodmerge"
+"speaker mainplayer"
+"say Good idea!"
+"give staffid"
+"silenttake idpart1"
+"silenttake idpart2"
+"markgone idpart1"
+"markgone idpart2"

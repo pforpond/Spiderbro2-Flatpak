@@ -1,0 +1,5 @@
+"ifcheckpoint 37"
+"give rompart"
+"checkpoint 37 on"
+"speaker mainplayer"
+"say A piece fell off the machine!"

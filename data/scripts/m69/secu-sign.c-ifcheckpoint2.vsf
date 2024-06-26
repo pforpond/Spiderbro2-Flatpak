@@ -1,0 +1,4 @@
+"terminaltext Secu-Sign!, , Press Space to sign, the contract.pt, document!, , 1"
+"sfx error"
+"terminaltext ===ERROR!===, , Contract.pt is already, signed!, , , 3"
+"terminalnoboot secretendstart"

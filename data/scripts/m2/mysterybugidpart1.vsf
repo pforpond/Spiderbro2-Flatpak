@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say Looks like your ID is broken! You should repair it! Stand back from me and enter your pockets! From there you can merge pocket items together!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

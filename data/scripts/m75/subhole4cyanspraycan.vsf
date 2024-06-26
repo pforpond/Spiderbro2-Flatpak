@@ -1,0 +1,7 @@
+"take cyanspraycan"
+"animate object subhole4 cyanholeseal2"
+"warp object subhole4 x 999"
+"warp object subhole4 y 999"
+"checkpoint 40 on"
+"halttimed"
+"script dm3"

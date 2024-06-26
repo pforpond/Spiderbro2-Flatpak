@@ -1,0 +1,7 @@
+"ifdirection 4"
+"ifcheckpoint 23"
+"take t-card"
+"warp player clearbro x 441"
+"warp player clearbro y 539"
+"animate player clearbro losefloppy"
+"markgone t-card"

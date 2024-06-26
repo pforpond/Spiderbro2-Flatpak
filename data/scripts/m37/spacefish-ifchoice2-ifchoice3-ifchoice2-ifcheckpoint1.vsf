@@ -1,0 +1,5 @@
+"fade out"
+"terminaltext Spacefish Game!, , Correct!, , , , 1"
+"terminaltext Spacefish Game!, , Level 3!, , 4/n=1/a+1/b+1/c = ?, , 1"
+"fade in"
+"choice 42, 420, 69, radio waves, 4/(l/a+l/b+l/c), end"

@@ -1,0 +1,7 @@
+"ifcheckpoint 51"
+"ifpocket emergencyhammerflat"
+"ifpocket emergencyhammercharged"
+"fade out"
+"sfx error"
+"terminaltext ===ERROR!===, , Emergency hammer required!, , , , 3"
+"fade in"

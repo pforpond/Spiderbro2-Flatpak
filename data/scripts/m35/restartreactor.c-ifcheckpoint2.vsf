@@ -1,0 +1,4 @@
+"terminaltext RESTART REACTOR, , Press space to begin, restart sequence!, , , 1"
+"sfx error"
+"terminaltext ===ERROR!===, , Reactor output too high!, Emergency Stop, recommended!,, 3"
+"terminalnoboot macros"

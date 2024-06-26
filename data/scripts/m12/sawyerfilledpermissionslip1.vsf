@@ -1,0 +1,8 @@
+"direction player sawyer faceplayer"
+"speaker sawyer"
+"say F- for me?"
+"take filledpermissionslip1"
+"speaker sawyer"
+"say Th- thank you!"
+"ifcheckpoint 16"
+"direction player sawyer 1"

@@ -1,0 +1,5 @@
+"ifcheckpoint 52"
+"direction player aphie faceplayer"
+"speaker aphie"
+"say I don't need to see that!"
+"direction player aphie 1"

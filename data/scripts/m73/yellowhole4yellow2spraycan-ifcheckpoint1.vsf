@@ -1,0 +1,7 @@
+"take yellow2spraycan"
+"animate object yellowhole4 yellowholeseal2"
+"warp object yellowhole4 x 999"
+"warp object yellowhole4 y 999"
+"checkpoint 44 on"
+"halttimed"
+"script dm3"

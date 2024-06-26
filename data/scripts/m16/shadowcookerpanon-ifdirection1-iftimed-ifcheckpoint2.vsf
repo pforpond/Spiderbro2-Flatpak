@@ -1,0 +1,8 @@
+"give badsoup"
+"warp object shadowcookeron x 265"
+"warp object shadowcookeron y 524"
+"warp object shadowcookerpanon x 1"
+"warp object shadowcookerpanon y 1"
+"checkpoint 10 off"
+"checkpoint 75 on"
+"giveaward 10"

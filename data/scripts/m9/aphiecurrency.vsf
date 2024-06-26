@@ -1,0 +1,8 @@
+"ifcheckpoint 52"
+"direction player aphie faceplayer"
+"speaker aphie"
+"say You're joking right?"
+"direction player aphie 1"
+"wait 1"
+"speaker aphie"
+"say ...gross!"

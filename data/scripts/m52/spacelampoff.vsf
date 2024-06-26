@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"speaker mainplayer"
+"say This lamp has no bulb!"
+"wait 1"
+"direction mainplayer 2"
+"say No power source at all actually!"
+"model mainplayer shadowbro"

@@ -1,0 +1,8 @@
+"collision off"
+"move mainplayer x 645"
+"move mainplayer y 344"
+"move mainplayer x 667"
+"direction mainplayer 3"
+"speaker mainplayer"
+"say The shears are firmly lodged in this pipe!"
+"collision on"

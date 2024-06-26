@@ -1,0 +1,6 @@
+"ifcheckpoint 33"
+"ifcheckpoint 30"
+"direction player pinchie faceplayer"
+"speaker pinchie"
+"say Pick a final card from the deck please!"
+"direction player pinchie 3"

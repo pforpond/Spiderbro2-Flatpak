@@ -1,0 +1,8 @@
+"terminaltext PC-SPACE OPEN APP!, , Press space to sideload, open application!, , , 1"
+"ifcheckpoint 17"
+"silentgive space-open"
+"hide space-open"
+"checkpoint 17 on"
+"checkpoint 49 on"
+"terminaltext Sideload complete!, , , , , , 1"
+"terminalnoboot computerspace"

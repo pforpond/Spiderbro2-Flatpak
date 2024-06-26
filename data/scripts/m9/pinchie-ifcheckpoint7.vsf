@@ -1,0 +1,5 @@
+"ifcheckpoint 33"
+"direction player pinchie faceplayer"
+"speaker pinchie"
+"say Now place your card upon the counselling desk!"
+"direction player pinchie 3"

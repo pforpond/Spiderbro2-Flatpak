@@ -1,0 +1,7 @@
+"ifcheckpoint 15"
+"terminaltext Generating HS points..., , , ...done!, Press space to apply!, , 1"
+"fade in"
+"givecurrency 500"
+"checkpoint 15 on"
+"fade out"
+"terminalnoboot pointsgenerator"

@@ -1,0 +1,6 @@
+"ifcheckpoint 28"
+"ifcheckpoint 41"
+"terminaltext RESTART REACTOR, , Press space to begin, restart sequence!, , , 1"
+"sfx error"
+"terminaltext ===ERROR!===, , Safety control is switched, on! Disable safety, to manually restart!, 1"
+"terminalnoboot macros"

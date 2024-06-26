@@ -1,0 +1,6 @@
+"remark robot gives plush"
+"ifcheckpoint 4"
+"direction player robot faceplayer"
+"give shadowbroplush"
+"direction player robot 2"
+"checkpoint 4 on"

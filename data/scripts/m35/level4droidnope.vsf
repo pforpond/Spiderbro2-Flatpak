@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"pilot level4droid on"
+"direction player level4droid faceplayer"
+"speaker level4droid"
+"say Item already screened! You may proceed!"
+"pilot level4droid off"
+"model mainplayer shadowbro"

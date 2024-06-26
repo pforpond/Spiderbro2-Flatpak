@@ -1,0 +1,7 @@
+"ifcheckpoint 5"
+"direction player beety faceplayer"
+"speaker beety"
+"say Quit fooling around kid! This isn't everybody!"
+"say C'mon, the crunch is on! Get back to it!"
+"checkpoint 1 on"
+"direction player beety 2"

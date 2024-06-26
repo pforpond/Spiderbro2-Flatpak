@@ -1,0 +1,8 @@
+"remark the droid is in a back room!"
+"makerandom 2 6"
+"makevalue 5 userandom"
+"makevalue 7 userandom"
+"modvalue 7 add 21"
+"ifmapno usevalue-7"
+"makerandom 30 60"
+"timedscript droidmoves2 userandom"

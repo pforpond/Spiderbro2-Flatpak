@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say I have already seen it! I'd get to work already if I were you! Time is short and the merge is getting closer!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

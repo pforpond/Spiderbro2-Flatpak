@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"wait 1"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say Plumie is ignoring me! They must still be on shift!"
+"model mainplayer shadowbro"

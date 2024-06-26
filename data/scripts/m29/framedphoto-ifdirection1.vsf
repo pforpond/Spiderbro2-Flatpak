@@ -1,0 +1,5 @@
+"ifcheckpoint 66"
+"speaker mainplayer"
+"say It is a framed photograph!"
+"showimage staffphoto"
+"checkpoint 66 on"

@@ -1,0 +1,8 @@
+"ifcheckpoint 37"
+"terminaltext PRINT QUEUE, , job complete!, , , , 1"
+"checkpoint 37 on"
+"warp object purpleprinterplate2 x 480"
+"warp object purpleprinterplate2 y 517"
+"warp object purpleprinterplate1 x 1"
+"warp object purpleprinterplate1 y 1"
+"terminalnoboot room1pc"

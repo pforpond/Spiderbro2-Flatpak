@@ -1,0 +1,5 @@
+"model mainplayer shadowbro"
+"control pockets on"
+"trigger 4 off"
+"trigger 5 on"
+"trigger 6 on"

@@ -1,0 +1,5 @@
+"ifcheckpoint 16"
+"direction player sawyer faceplayer"
+"speaker sawyer"
+"say H- hey! I'm using th- this!"
+"direction player sawyer 1"

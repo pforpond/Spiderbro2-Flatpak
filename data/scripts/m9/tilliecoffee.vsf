@@ -1,0 +1,8 @@
+"direction player tillie faceplayer"
+"speaker tillie"
+"say ..."
+"speaker tillie"
+"say Good idea! Maybe it will help!"
+"take coffee"
+"direction player tillie 1"
+"giveaward 6"

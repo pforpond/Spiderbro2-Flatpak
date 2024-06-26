@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say Move along! We have no time to waste!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

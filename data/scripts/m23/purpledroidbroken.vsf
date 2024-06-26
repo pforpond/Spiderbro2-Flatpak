@@ -1,0 +1,6 @@
+"ifcheckpoint 42"
+"speaker mainplayer"
+"say There are some parts here!"
+"give metalfile"
+"give metalpins"
+"checkpoint 42 on"

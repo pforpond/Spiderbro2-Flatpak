@@ -1,0 +1,6 @@
+"remark cart is going"
+"terminaltext POWER MINECART, , Press space to begin, docked minecart launch, procedure!, , 1"
+"ifcheckpoint 6"
+"terminaltext BON VOYAGE!, , Minecart will depart, soon!, , , 1"
+"checkpoint 6 on"
+"terminalnoboot controlcart"

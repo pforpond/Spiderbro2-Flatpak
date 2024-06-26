@@ -1,0 +1,6 @@
+"take shadowspraycan"
+"animate object shadowhole1 shadowholeseal1"
+"warp object shadowhole1 x 999"
+"warp object shadowhole1 y 999"
+"checkpoint 41 on"
+"ifcheckpoint 40"

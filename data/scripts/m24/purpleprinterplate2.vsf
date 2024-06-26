@@ -1,0 +1,8 @@
+"speaker mainplayer"
+"say Something has been printed!"
+"give paperplateface"
+"warp object purpleprinter x 480"
+"warp object purpleprinter y 517"
+"warp object purpleprinterplate2 x 1"
+"warp object purpleprinterplate2 y 1"
+"checkpoint 38 on"

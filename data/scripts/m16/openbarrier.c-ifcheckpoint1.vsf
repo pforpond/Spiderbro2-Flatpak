@@ -1,0 +1,7 @@
+"ifcheckpoint 44"
+"terminaltext Barrier Controls!, , The barrier has been, opened! Proceed with, caution!, , 1"
+"warp object shadowbarrierclosed x 1"
+"warp object shadowbarrierclosed y 1"
+"warp object shadowbarrieropen x 325"
+"warp object shadowbarrieropen y 577"
+"terminalnoboot shadowpc"

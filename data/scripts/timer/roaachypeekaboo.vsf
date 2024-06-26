@@ -1,0 +1,7 @@
+"allowcontrol"
+"warp object emptybox y 578"
+"animate object emptybox roaachyboxshow"
+"warp object roaachybox x 831"
+"warp object roaachybox y 578"
+"warp object emptybox x 1"
+"warp object emptybox y 1"

@@ -1,0 +1,3 @@
+"ifcheckpoint 45"
+"direction player spacebeety faceplayer"
+"choice Status, Interact, Report, End"

@@ -1,0 +1,5 @@
+"ifcheckpoint 13"
+"direction player ant faceplayer"
+"speaker ant"
+"say I'm a little busy for counselling!"
+"direction player ant 1"

@@ -1,0 +1,7 @@
+"ifcheckpoint 99"
+"model mainplayer shadowbrostill"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say That is not your identification!"
+"direction player mysterybug 2"
+"model mainplayer shadowbro"

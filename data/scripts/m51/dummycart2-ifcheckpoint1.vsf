@@ -1,0 +1,6 @@
+"ifcheckpoint 8"
+"ifcheckpoint 9"
+"ifcheckpoint 10"
+"speaker mainplayer"
+"say The control panel is lit up! I have a choice!"
+"choice Go Ahead, Go Left, Go Right"

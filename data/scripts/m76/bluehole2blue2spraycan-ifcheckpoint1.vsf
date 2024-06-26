@@ -1,0 +1,7 @@
+"take blue2spraycan"
+"animate object bluehole2 blueholeseal2"
+"warp object bluehole2 x 999"
+"warp object bluehole2 y 999"
+"checkpoint 43 on"
+"halttimed"
+"script dm3"

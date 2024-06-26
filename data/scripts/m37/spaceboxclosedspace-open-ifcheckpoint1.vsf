@@ -1,0 +1,5 @@
+"sfx spacebarrier"
+"warp object spaceboxopen x 520"
+"warp object spaceboxopen y 801"
+"warp object spaceboxclosed x 1"
+"warp object spaceboxclosed y 1"

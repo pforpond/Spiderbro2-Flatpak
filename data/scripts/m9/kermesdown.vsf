@@ -1,0 +1,6 @@
+"ifcheckpoint 56"
+"speaker mainplayer"
+"say Kermes has some things!"
+"give emergencyhammerflat"
+"give lifemirror"
+"checkpoint 56 on"

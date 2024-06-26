@@ -1,0 +1,5 @@
+"terminaltext RTX Toggle, , Press space to continue!, , , , 1"
+"ifcheckpoint 27"
+"terminaltext Success!, , RTX is now enabled!, , , , 1"
+"checkpoint 27 on"
+"terminalnoboot reactorsettings"

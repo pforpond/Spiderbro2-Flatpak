@@ -1,0 +1,5 @@
+"terminaltext SIDELOADER, , Available app:, antivirus.c, , Press space to sideload!, 1"
+"ifcheckpoint 14"
+"sfx error"
+"terminaltext ===ERROR===, , MOD ROM required!, , , , 3"
+"terminalnoboot serverutils"

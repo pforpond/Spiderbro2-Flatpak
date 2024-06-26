@@ -1,0 +1,5 @@
+"ifcheckpoint 36"
+"speaker mainplayer"
+"say There is something in here!"
+"give metalpins"
+"checkpoint 36 on"

@@ -1,0 +1,7 @@
+"take shadowspraycan"
+"animate object shadowhole2 shadowholeseal2"
+"warp object shadowhole2 x 999"
+"warp object shadowhole2 y 999"
+"checkpoint 41 on"
+"halttimed"
+"script dm3"

@@ -1,0 +1,4 @@
+"ifcheckpoint 41"
+"sfx error"
+"terminaltext ===ERROR!===, , Reactor stalled!, Restart required!, , , 3"
+"terminalnoboot rodcontrol"

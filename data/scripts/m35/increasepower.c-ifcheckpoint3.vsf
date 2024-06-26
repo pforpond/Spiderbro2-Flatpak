@@ -1,0 +1,4 @@
+"ifcheckpoint 34"
+"sfx error"
+"terminaltext ===ERROR!===, , Reactor is already at, maximum output!, Disable safety control, for manual control!, 1"
+"terminalnoboot macros"

@@ -1,0 +1,8 @@
+"ifcheckpoint 20"
+"direction player kermes faceplayer"
+"speaker kermes"
+"say Stop! Counselling is meant to make us feel better!"
+"direction player kermes 4"
+"speaker kermes"
+"say I cannot take this any more!"
+"checkpoint 20 on"

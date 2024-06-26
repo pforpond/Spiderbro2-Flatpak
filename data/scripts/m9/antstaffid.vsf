@@ -1,0 +1,7 @@
+"ifcheckpoint 12"
+"speaker ant"
+"say ..."
+"wait 1"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say Ant is ignoring me!"

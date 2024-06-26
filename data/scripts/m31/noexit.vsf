@@ -1,0 +1,7 @@
+"collision off"
+"model mainplayer shadowbrostill"
+"speaker mainplayer"
+"say I should avoid going back there! That worm could wake up any moment!"
+"move mainplayer x 674"
+"model mainplayer shadowbro"
+"collision on"

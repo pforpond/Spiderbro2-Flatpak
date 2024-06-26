@@ -1,0 +1,8 @@
+"remark 1 card to return"
+"ifpocket 3deathtarot"
+"speaker mainplayer"
+"say It has tarot cards inside!"
+"give 1deathtarot"
+"silenttake 1deathtarot"
+"silenttake 2deathtarot"
+"silentgive 3deathtarot"

@@ -1,0 +1,8 @@
+"remark maybe you have something for me? first and only chance now!"
+"ifcheckpoint 1"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say Looks like a paradigm shift is occurring! I always had a feeling that the present situation was unsustainable!"
+"say You should be quick handing over your paperwork!"
+"direction player mysterybug 2"
+"checkpoint 1 on"

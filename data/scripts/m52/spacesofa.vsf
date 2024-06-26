@@ -1,0 +1,5 @@
+"ifcheckpoint 12"
+"speaker mainplayer"
+"say There is something wedged between the cushions!"
+"give paddle"
+"checkpoint 12 on"

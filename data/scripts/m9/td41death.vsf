@@ -1,0 +1,7 @@
+"ifcheckpoint 27"
+"give 1lifetarot"
+"silenttake 1lifetarot"
+"silentgive 2lifetarot"
+"speaker pinchie"
+"say Now place your card upon the counselling desk!"
+"checkpoint 27 on"

@@ -1,0 +1,8 @@
+"direction player kermes faceplayer"
+"take 1lifetarot"
+"silenttake 3lifetarot"
+"silentgive 2lifetarot"
+"speaker kermes"
+"say Life huh? Well maybe..."
+"direction player kermes 4"
+

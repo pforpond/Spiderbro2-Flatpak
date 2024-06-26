@@ -1,0 +1,5 @@
+"ifholding shadowfloppy"
+"ifcheckpoint 12"
+"sfx error"
+"terminaltext ===ERROR===, , Access denied!, Purple pass required!, , , 3"
+"terminalnoboot shadowpc"

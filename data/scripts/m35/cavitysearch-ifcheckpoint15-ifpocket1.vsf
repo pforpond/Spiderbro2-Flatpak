@@ -1,0 +1,6 @@
+"take blueentitykey"
+"speaker level4droid"
+"say Blue key! Cleared!"
+"give blueentitykey"
+"checkpoint 15 on"
+"script cavitysearch"

@@ -1,0 +1,5 @@
+"ifcheckpoint 4"
+"direction player chafie faceplayer"
+"speaker chafie"
+"say Do you mind? I'm busy! The crunch is on!"
+"direction player chafie 1"

@@ -1,0 +1,8 @@
+"direction mainplayer 3"
+"direction player mysterybug 4"
+"speaker mysterybug"
+"say If you have it come close to me and open your pockets! From there you will be able to give it to me!"
+"direction mainplayer 2"
+"direction player mysterybug 2"
+"collision on"
+"model mainplayer shadowbro"

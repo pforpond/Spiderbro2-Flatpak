@@ -1,0 +1,6 @@
+"ifcheckpoint 7"
+"ifpocket filledpermissionslip1"
+"ifpocket filledpermissionslip2"
+"ifpocket blankpermissionslip"
+"checkpoint 7 on"
+"script cavitysearch"

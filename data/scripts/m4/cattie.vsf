@@ -1,0 +1,5 @@
+"ifcheckpoint 14"
+"direction player cattie faceplayer"
+"speaker cattie"
+"say I wish I could get this droid working! I hear it is great!"
+"direction player cattie 1"

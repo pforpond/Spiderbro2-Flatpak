@@ -1,0 +1,8 @@
+"take purpleink"
+"silenttake purplepass"
+"silentgive purplepassruined"
+"sfx penleak"
+"speaker mainplayer"
+"say I have added the ink to the printer!"
+"checkpoint 35 on"
+"markgone purpleink"

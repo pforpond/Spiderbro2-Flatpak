@@ -1,0 +1,3 @@
+"ifcheckpoint 3"
+"direction player spacesawyer faceplayer"
+"choice Status, Interact, Report, End"

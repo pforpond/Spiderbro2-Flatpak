@@ -1,0 +1,5 @@
+"ifcheckpoint 18"
+"ifcheckpoint 33"
+"direction player pinchie faceplayer"
+"say Do you require counselling services? Hand me your counselling form honey!"
+"direction player pinchie 3"

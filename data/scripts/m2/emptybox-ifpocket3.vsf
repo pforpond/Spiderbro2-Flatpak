@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"speaker mainplayer"
+"say This box is labelled Lost Property! It is empty now as I took the contents for myself!"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say I can press 'P' to open my pockets to take a look at what I got!"
+"model mainplayer shadowbro"

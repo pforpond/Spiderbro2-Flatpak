@@ -1,0 +1,6 @@
+"direction player ichne faceplayer"
+"speaker ichne"
+"say I've never heard of that floor before!"
+"speaker ichne"
+"say You should get back there before you're caught here!"
+"direction player ichne 1"

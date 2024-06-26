@@ -1,0 +1,8 @@
+"remark maybe you have something for me? first and only chance now!"
+"ifcheckpoint 1"
+"direction player mysterybug faceplayer"
+"speaker mysterybug"
+"say The cracks here run very deep! Nobody knows what the destination may be!"
+"say With that said, maybe you do have something that could help stimulate!"
+"direction player mysterybug 2"
+"checkpoint 1 on"

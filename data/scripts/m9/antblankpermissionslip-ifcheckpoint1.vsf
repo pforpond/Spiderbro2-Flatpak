@@ -1,0 +1,7 @@
+"ifcheckpoint 13"
+"direction player ant faceplayer"
+"speaker ant"
+"say You'll want to give that to Beety, he's the only one who can fill those in!"
+"direction player ant 1"
+"speaker ant"
+"say I doubt he'll be happy about it though!"

@@ -1,0 +1,5 @@
+"ifcheckpoint 10"
+"direction player aphie faceplayer"
+"speaker aphie"
+"say Oh no! A status update already? I'm not ready! I refuse to fill it in right now!"
+"direction player aphie 1"

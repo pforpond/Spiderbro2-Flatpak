@@ -1,0 +1,7 @@
+"direction player aphie faceplayer"
+"speaker aphie"
+"say You're joking right? I thought you were cool!"
+"direction player aphie 2"
+"wait 1"
+"speaker aphie"
+"say ...gross!"

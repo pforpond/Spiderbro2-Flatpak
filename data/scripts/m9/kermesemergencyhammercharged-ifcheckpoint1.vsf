@@ -1,0 +1,5 @@
+"ifcheckpoint 48"
+"wait 1"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say Kermes is too distressed to notice me!"

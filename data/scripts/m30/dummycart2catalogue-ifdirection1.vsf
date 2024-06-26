@@ -1,0 +1,8 @@
+"take catalogue"
+"warp player clearbro x 517"
+"warp player clearbro y 529"
+"sfx spaceblock"
+"animate player clearbro spacesideblock2"
+"warp player clearbro x 441"
+"warp player clearbro y 539"
+"animate player clearbro losecurtain"

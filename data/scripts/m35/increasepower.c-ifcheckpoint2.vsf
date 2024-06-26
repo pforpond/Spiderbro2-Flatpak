@@ -1,0 +1,8 @@
+"ifcheckpoint 35"
+"ifcheckpoint 34"
+"makevalue 5 3200"
+"checkpoint 35 on"
+"checkpoint 36 off"
+"checkpoint 37 off"
+"terminaltext Success!, , Reactor now operating at, 3200mw!, , , 1"
+"terminalnoboot macros"

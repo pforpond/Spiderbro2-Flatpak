@@ -1,0 +1,4 @@
+"wait 1"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say Ant doesn't seem to mind me touching their PC!"

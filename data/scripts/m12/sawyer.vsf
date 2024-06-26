@@ -1,0 +1,5 @@
+"direction player sawyer faceplayer"
+"speaker sawyer"
+"say H- hello!"
+"ifcheckpoint 16"
+"direction player sawyer 1"

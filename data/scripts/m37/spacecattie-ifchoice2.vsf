@@ -1,0 +1,6 @@
+"ifcheckpoint 19"
+"fade out"
+"terminaltext USER MESSAGE:, Do you like video games?, Do you like DLC?, It is even better, when the DLC is free!, Take it! Spacefish awaits!, 1"
+"checkpoint 19 on"
+"fade in"
+"direction player spacecattie 2"

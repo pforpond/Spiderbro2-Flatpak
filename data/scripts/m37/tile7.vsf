@@ -1,0 +1,8 @@
+"remark tile 7!"
+"model mainplayer spacebrostill"
+"ifcheckpoint 22"
+"remark tile is facing left!"
+"ifdirection 2"
+"ifdirection 3"
+"ifdirection 4"
+"ifdirection 1"

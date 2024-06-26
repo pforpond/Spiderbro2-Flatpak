@@ -1,0 +1,5 @@
+"take greenentitykey"
+"speaker mainplayer"
+"say The door swallowed my key but is still locked!"
+"direction mainplayer 2"
+

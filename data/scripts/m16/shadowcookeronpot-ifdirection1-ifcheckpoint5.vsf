@@ -1,0 +1,5 @@
+"remark success!"
+"ifcheckpoint 64"
+"ifcheckpoint 65"
+"sfx cooking"
+"timedscript cookingwell1 5"

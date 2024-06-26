@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"direction player sawyer faceplayer"
+"say A- a green k- key? Hmmm..."
+"say I- I'm l- looking for a p- pink key!"
+"ifcheckpoint 16"
+"direction player sawyer 1"
+"model mainplayer shadowbro"

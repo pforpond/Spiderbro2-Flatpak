@@ -1,0 +1,6 @@
+"remark review take taken"
+"special668"
+"speaker nobody"
+"say Time Taken: [gametime]!"
+"ifvalue 41 equal 1"
+"script savereview"

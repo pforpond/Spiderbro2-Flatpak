@@ -1,0 +1,6 @@
+"model mainplayer shadowbrostill"
+"direction player sawyer faceplayer"
+"wait 3"
+"ifcheckpoint 16"
+"direction player sawyer 1"
+"model mainplayer shadowbro"

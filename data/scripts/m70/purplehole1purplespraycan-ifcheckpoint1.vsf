@@ -1,0 +1,6 @@
+"take purplespraycan"
+"animate object purplehole1 purpleholeseal1"
+"warp object purplehole1 x 999"
+"warp object purplehole1 y 999"
+"checkpoint 45 on"
+"ifcheckpoint 40"

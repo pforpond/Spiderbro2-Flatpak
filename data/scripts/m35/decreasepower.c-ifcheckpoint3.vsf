@@ -1,0 +1,11 @@
+"ifcheckpoint 37"
+"ifcheckpoint 34"
+"remark xenon poisons reactor"
+"terminaltext REACTOR NOTICE!, , Unexpected spike in, xenon! Reactor output, not high enough to, burn off!, 1"
+"terminaltext REACTOR NOTICE!, Reactor core poisoned!, Maximum output available, is 500mw!, , , 1"
+"sfx error"
+"terminaltext ===ERROR!===, , Safety control unable, to stabilise reactor!, Restart reactor or, disable safety!, 3"
+"checkpoint 34 on"
+"makevalue 5 500"
+"terminalnoboot macros"
+

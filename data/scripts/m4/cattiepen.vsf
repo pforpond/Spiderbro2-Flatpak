@@ -1,0 +1,5 @@
+"dim off"
+"direction player cattie faceplayer"
+"speaker cattie"
+"say That won't be much help!"
+"direction player cattie 1"

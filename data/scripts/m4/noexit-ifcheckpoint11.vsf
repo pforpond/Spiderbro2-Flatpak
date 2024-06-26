@@ -1,0 +1,7 @@
+"collision off"
+"speaker mainplayer"
+"say I don't want to interrupt that sales pitch!"
+"move mainplayer x 417"
+"move mainplayer y 468"
+"direction mainplayer 2"
+"collision on"

@@ -1,0 +1,7 @@
+"model mainplayer shadowbrostill"
+"collision off"
+"give mysterypart1"
+"sprint object pinkportal x 350"
+"collision on"
+"model mainplayer shadowbro"
+"checkpoint 89 on"

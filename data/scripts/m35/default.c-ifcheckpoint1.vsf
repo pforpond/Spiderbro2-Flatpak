@@ -1,0 +1,5 @@
+"ifcheckpoint 41"
+"ifcheckpoint 40"
+"sfx error"
+"terminaltext ===ERROR!===, , Control rods are, already at default, position!, , 3"
+"terminalnoboot rodcontrol"

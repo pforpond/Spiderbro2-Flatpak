@@ -1,0 +1,8 @@
+"remark cheat sheet right at the start!"
+"modvalue 3 add 1"
+"savevalue 3"
+"ifmapno 30"
+"ifmapno 31"
+"ifcheckpoint 1"
+"speaker nobody"
+"say Try interacting with everything on the level!"

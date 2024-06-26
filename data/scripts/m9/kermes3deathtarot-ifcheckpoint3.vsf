@@ -1,0 +1,8 @@
+"ifcheckpoint 21"
+"direction player kermes faceplayer"
+"speaker kermes"
+"say Oh goodness death is coming for me! I'm next!"
+"direction player kermes 4"
+"speaker kermes"
+"say I cannot take this any more!"
+"checkpoint 21 on"

@@ -1,0 +1,5 @@
+"take white2spraycan"
+"animate object whitehole2 whiteholeseal1"
+"warp object whitehole2 x 999"
+"warp object whitehole2 y 999"
+"checkpoint 42 on"

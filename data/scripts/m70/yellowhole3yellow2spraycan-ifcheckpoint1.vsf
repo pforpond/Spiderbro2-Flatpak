@@ -1,0 +1,5 @@
+"take yellow2spraycan"
+"animate object yellowhole3 yellowholeseal1"
+"warp object yellowhole3 x 999"
+"warp object yellowhole3 y 999"
+"checkpoint 44 on"

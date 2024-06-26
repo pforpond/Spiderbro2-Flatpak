@@ -1,0 +1,6 @@
+"ifcheckpoint 50"
+"speaker mainplayer"
+"say There are some things in here!"
+"give emergencyhammerflat"
+"give 3lifetarot"
+"checkpoint 49 off"

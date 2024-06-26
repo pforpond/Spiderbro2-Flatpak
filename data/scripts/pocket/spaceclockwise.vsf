@@ -1,0 +1,6 @@
+"ifcheckpoint 26"
+"fade out"
+"terminaltext OBJECT PROPERTIES, , Name: clockwise.c, Type: Application, Size: 228k, Status: Ready!, 1"
+"sfx error"
+"terminaltext ===ERROR!===, , Player not in range!, , , , 3"
+"fade in"

@@ -1,0 +1,8 @@
+"model mainplayer shadowbrostill"
+"speaker cattie"
+"say ..."
+"direction player cattie faceplayer"
+"speaker cattie"
+"say I think we should scale back on our droid research..."
+"direction player cattie 2"
+"model mainplayer shadowbro"

@@ -1,0 +1,3 @@
+"ifcheckpoint 20"
+"direction player spacecattie faceplayer"
+"choice Status, Interact, Report, End"

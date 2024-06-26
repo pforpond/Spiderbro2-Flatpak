@@ -1,0 +1,6 @@
+"ifholding shadowfloppy"
+"ifcheckpoint 18"
+"ifcheckpoint 20"
+"sfx error"
+"terminaltext ===ERROR===, , Your PC-SPACE block, list is empty!, , , 3"
+"terminalnoboot computerspace"

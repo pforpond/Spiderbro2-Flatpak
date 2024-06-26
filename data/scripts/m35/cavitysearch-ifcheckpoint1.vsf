@@ -1,0 +1,5 @@
+"ifcheckpoint 2"
+"ifpocket shadowfloppy"
+"checkpoint 2 on"
+"checkpoint 3 on"
+"script cavitysearch"

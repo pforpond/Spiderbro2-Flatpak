@@ -1,0 +1,4 @@
+"ifcheckpoint 47"
+"terminaltext SIDELOAD READY!, , Insert T-Card into, server!, , , 2"
+"checkpoint 46 off"
+"terminalnoboot serverutils"

@@ -1,0 +1,11 @@
+"direction player kermes faceplayer"
+"take 1lifetarot"
+"speaker kermes"
+"say Another life!"
+"speaker kermes"
+"say This confirms my safety! I can save the development of this game!"
+"speaker kermes"
+"say It is all down to me! I must act now! Give me a weapon!"
+"direction player kermes 3"
+"checkpoint 48 on"
+

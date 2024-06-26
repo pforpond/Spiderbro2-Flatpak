@@ -1,0 +1,4 @@
+"allowcontrol"
+"remark checks for holes to be closed"
+"ifcheckpoint 50"
+"script checkholes6"

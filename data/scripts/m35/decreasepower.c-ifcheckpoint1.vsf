@@ -1,0 +1,6 @@
+"ifcheckpoint 37"
+"ifcheckpoint 34"
+"ifcheckpoint 36"
+"sfx error"
+"terminaltext ===ERROR!===, , Safety controls are disabled!, Output changes must be, performed manually!, , 3"
+"terminalnoboot macros"

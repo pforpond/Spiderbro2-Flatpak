@@ -1,0 +1,7 @@
+"take whitespraycan"
+"animate object whitehole3 whiteholeseal3"
+"warp object whitehole3 x 999"
+"warp object whitehole3 y 999"
+"checkpoint 42 on"
+"halttimed"
+"script dm3"

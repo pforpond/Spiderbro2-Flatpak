@@ -1,0 +1,7 @@
+"ifcurrency 630"
+"direction player taran faceplayer"
+"speaker taran"
+"say Doesn't look like you have enough points on that happy shopper points card for a purchase I'm afraid!"
+"say Trade your gold ingots for happy shopper card points at your local happy shopper card points exchange kiosk!"
+"say We put a smile on every shopper here at happy shopper!"
+"direction player taran 2"

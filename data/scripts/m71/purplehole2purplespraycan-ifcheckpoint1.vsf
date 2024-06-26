@@ -1,0 +1,7 @@
+"take purplespraycan"
+"animate object purplehole2 purpleholeseal2"
+"warp object purplehole2 x 999"
+"warp object purplehole2 y 999"
+"checkpoint 45 on"
+"halttimed"
+"script dm3"

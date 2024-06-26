@@ -1,0 +1,6 @@
+"ifcheckpoint 13"
+"pilot kermes on"
+"direction player kermes faceplayer"
+"speaker kermes"
+"say I don't need that right now!"
+"pilot kermes off"

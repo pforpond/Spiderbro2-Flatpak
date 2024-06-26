@@ -1,0 +1,5 @@
+"ifcheckpoint 36"
+"ifpocket 1deathtarot"
+"ifpocket 2deathtarot"
+"give 1deathtarot"
+"checkpoint 36 on"

@@ -1,0 +1,8 @@
+"remark you saved in the purple world"
+"ifcheckpoint 44"
+"map 20"
+"warp mainplayer x 501"
+"warp mainplayer y 406"
+"direction mainplayer 2"
+"model mainplayer shadowbro"
+"fade in"
