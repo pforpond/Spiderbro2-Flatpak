@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>co.uk.studiopond.spiderbro2</id>
+  <id>uk.co.studiopond.spiderbro2</id>
   
   <name>Spiderbro 2</name>
   <summary>A spider puzzle game!</summary>
@@ -46,12 +46,12 @@
     </p>
   </description>
   
-  <launchable type="desktop-id">co.uk.studiopond.spiderbro2.desktop</launchable>
+  <launchable type="desktop-id">uk.co.studiopond.spiderbro2.desktop</launchable>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">mild</content_attribute>
     <content_attribute id="violence-fantasy">mild</content_attribute>
   </content_rating>
-  <developer id="co.uk.studiopond">
+  <developer id="uk.co.studiopond">
     <name>Studio Pond</name>
   </developer>
 
